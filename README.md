@@ -1,6 +1,6 @@
-# Projeto de faculdade para aprender a usar o Git e Github
+## Projeto de faculdade para aprender a usar o Git e Github
 
-## Um pouco sobre mim
+# Um pouco sobre mim
 
 Sou Bacharel em ciências contábeis e atuo como Analista contábil em uma empresa do setor de educação.
 
