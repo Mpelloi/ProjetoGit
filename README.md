@@ -12,4 +12,4 @@ Hoje busco me desenvolver na área da análise de dados e business intelligence.
 
 Possuo conhecimentos em ferramentas como Excel, PowerQuery, Power BI entre outras que são essenciais para a área.
 
-**Atualmente estou cursando 1º ano de Análise de sistemas**
+**Atualmente estou cursando 1º ano de Análise e desenvolvimento de sistemas**
