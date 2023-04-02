@@ -1,0 +1,14 @@
+@startuml exercício1
+start
+:Usuario informa o nome dos sócios
+e suas respectivas participações;
+:Usuário informa o valor da empresa;
+:Código faz o calculo de participação de cada sócio;
+note right
+sociedade1 = (socio1.participacao / 100) * valorempresa
+sociedade2 = (socio2.participacao / 100) * valorempresa
+sociedade3 = (socio3.participacao / 100) * valorempresa
+end note
+:Código imprime o resultado;
+stop
+@enduml
