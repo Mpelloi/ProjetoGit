@@ -1,0 +1,16 @@
+@startuml exercício1
+start
+:Usuario informa o nome dos alunos
+e suas respectivas notas;
+:Usuário informa o valor da nota de corte;
+:Código verifica se a nota está dentro ou abaixo da nota de corte;
+note right
+if aluno1.nota < notamedia:
+  print(f"{aluno1.nome} - {aluno1.nota} - abaixo da média")
+else:
+  print(f"{aluno1.nome} - {aluno1.nota} - dentro da média")
+end note
+:Código imprime o resultado com o nome dos alunos
+com suas notas e se está dentro da nota de corte;
+stop
+@enduml
