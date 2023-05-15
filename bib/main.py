@@ -1,4 +1,4 @@
-from bib.exercicios import *
+from exercicios import *
 
 
 while True:
